@@ -1,0 +1,18 @@
+# Codex / OMX runtime state
+.omx/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor and swap files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Temporary export / backup files
+*.tmp
+*.temp
+*.bak
